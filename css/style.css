@@ -13,18 +13,18 @@
   padding-top: 15pt;
 }
 
-.mdl-textfield__error {
-  color: rgb(63, 0, 145);
+.mdl-textfield__error a {
+  color: rgb(63, 0, 145 / 0.2 );
 }
 
-.page-content {
-  color: rgb(0, 0, 0);
+.page-content a {
+  color: rgb(0, 0, 0 / 0.2);
   font-family: Helvetica, Arial, sans-serif;
   font-size: 1.25rem;
 }
 
-body {
-  background-color: rgb(140, 78, 216);
+body a {
+  background-color: rgb(140, 78, 216 / 0.2);
 }
 
 img {
