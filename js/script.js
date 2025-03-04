@@ -5,6 +5,6 @@
 // This file contains the JS functions for index.html
 
 function myButtonClicked() {
-  console.log("Hello, World!");
+  alert('Hello, World!');
 }
 
